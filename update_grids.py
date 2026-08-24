@@ -15,7 +15,7 @@ new_grid = '''<div class="services-grid">
                 <div class="service-card">
                     <div class="service-icon"><i data-lucide="scissors"></i></div>
                     <h3 class="service-title">Surgical Services</h3>
-                    <p class="service-desc">State-of-the-art surgical interventions by expert surgeons.</p>
+                    <p class="service-desc">State-of-the-art surgical interventions by expert Surgeon.</p>
                     <ul class="service-list">
                         <li>General & Ortho Surgery</li>
                         <li>Neuro & Spinal Surgery</li>
@@ -40,7 +40,7 @@ new_grid = '''<div class="services-grid">
                 <!-- Service Card 4 -->
                 <div class="service-card">
                     <div class="service-icon"><i data-lucide="microscope"></i></div>
-                    <h3 class="service-title">Diagnostics</h3>
+                    <h3 class="service-title">Diagnostic</h3>
                     <p class="service-desc">Accurate and timely testing utilizing modern laboratory technology.</p>
                     <ul class="service-list">
                         <li>Pathology</li>

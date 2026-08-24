@@ -18,7 +18,7 @@ WHAT WE OFFER
 .
 Advanced Surgeries: Minimally invasive and complex surgical procedures, including Neuro, Spinal, Ortho, and Plastic surgery
 .
-Comprehensive Diagnostics: Fully equipped Pathology lab, ECG, ECHO, and Dialysis center to identify underlying health issues quickly
+Comprehensive Diagnostic: Fully equipped Pathology lab, ECG, ECHO, and Dialysis center to identify underlying health issues quickly
 .
 WHY WE ARE THE BEST HOSPITAL IN PATNA? Just as top clinics prioritize a warm and positive ambiance
 , Mangalam Hospital is one of Patna's leading healthcare centers, committed to providing evidence-based, world-class medical treatments accessible to everyone. From the moment you enter our state-of-the-art facility in Kumhrar, you will experience a supportive environment designed to ease your anxieties. With fully equipped AC General Wards, AC Emergency Wards, and specialized private AC Rooms, our courteous staff ensures a comfortable healing experience
@@ -74,7 +74,7 @@ Neurology & Neurosurgery:
 Dr. Mukesh (Neurosurgeon) - M.B.B.S, M.S (IGIMS)
 Dr. Anil (Neurosurgeon) - M.B.B.S, M.S (PMCH)
 Dr. Dheeraj (Neurosurgeon) - M.B.B.S, M.S (BIG APOLLO)
-Dr. Abhay Ranjan (Neurosurgeon) - M.Ch (IGIMS)
+Dr. Abhay (Neurosurgeon) - M.Ch (IGIMS)
 Orthopedics:
 Dr. Shamsul Huda - M.B.B.S, M.S (PMCH)
 Dr. Vishmohan - M.B.B.S, M.S (PMCH)
