@@ -1080,6 +1080,17 @@ textarea.form-control {
 }
 
 @media (max-width: 768px) {
+    .ambulance-cta {
+        font-size: 0.85rem !important;
+        padding: 9px 18px !important;
+        gap: 6px !important;
+    }
+
+    .ambulance-cta i {
+        width: 14px !important;
+        height: 14px !important;
+    }
+
     .top-bar {
         display: none;
     }
